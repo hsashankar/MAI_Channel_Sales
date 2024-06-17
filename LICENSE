@@ -1,21 +1,38 @@
-MIT License
+Crazy Mavericks Proprietary License
 
-Copyright (c) 2024 HSA Shankar
+Copyright (c) 2024 Crazy Mavericks
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+All rights reserved.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+1. Grant of License
+Subject to the terms and conditions of this License, Crazy Mavericks ("Licensor") hereby grants to Digitelligence ("Licensee") a non-exclusive, non-transferable, and limited license to use the software and associated documentation files (the "Software") solely for internal business purposes.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+2. Restrictions
+Licensee shall not:
+a. Copy, modify, merge, distribute, or sublicense the Software, in whole or in part, except as expressly permitted by this License.
+b. Use the Software for any purpose other than the internal business operations of [Name of Licensee/Company Department].
+c. Reverse engineer, decompile, or disassemble the Software, or attempt to derive the source code of the Software.
+
+3. Ownership
+The Software is licensed, not sold. Licensor retains all right, title, and interest in and to the Software, including all intellectual property rights therein.
+
+4. Termination
+This License shall automatically terminate if Licensee fails to comply with any of the terms and conditions of this License. Upon termination, Licensee must immediately cease all use of the Software and destroy all copies of the Software in Licensee's possession or control.
+
+5. Disclaimer of Warranty
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE LICENSOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+6. Limitation of Liability
+IN NO EVENT SHALL LICENSOR BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, OR CONSEQUENTIAL DAMAGES, OR DAMAGES FOR LOSS OF PROFITS, REVENUE, DATA, OR USE, INCURRED BY LICENSEE OR ANY THIRD PARTY, WHETHER IN AN ACTION IN CONTRACT OR TORT, ARISING FROM LICENSEE'S ACCESS TO, OR USE OF, THE SOFTWARE.
+
+7. Governing Law
+This License shall be governed by and construed in accordance with the laws of Mysuru, Karnataka, without regard to its conflict of law principles.
+
+8. Entire Agreement
+This License constitutes the entire agreement between the parties with respect to the use of the Software and supersedes all prior or contemporaneous understandings regarding such subject matter.
+
+Crazy Mavericks
+20, First Floor, 2nd Cross, MMG Green City Phase 2, 
+Bogadi, Mysuru 570026. Karnataka, Bharath
+
+Date: 17-Jun-2024
